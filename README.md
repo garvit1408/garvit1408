@@ -1,4 +1,4 @@
-<img width="996" src="https://github.com/user-attachments/assets/5688688a-eb5e-49f4-b217-73ffce3ecf29" />
+<img width="996" src="https://github.com/user-attachments/assets/82f137f2-5ad5-441c-aad5-c0cfac93bb71" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/garvitsingh14/">
@@ -13,3 +13,4 @@
     <img src="https://github.com/user-attachments/assets/88a6e30c-fc9a-4ad5-a5eb-7b54e4117d962" alt="Kaggle Badge" height="40"/>
   </a>
 </div>
+
