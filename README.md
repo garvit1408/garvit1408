@@ -12,5 +12,10 @@
   <a href="https://www.kaggle.com/garvitsingh14">
     <img src="https://github.com/user-attachments/assets/88a6e30c-fc9a-4ad5-a5eb-7b54e4117d962" alt="Kaggle Badge" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bento.me/garvit14">
+    <img src="https://github.com/user-attachments/assets/7ba756ba-f01b-4ad3-95d7-43e4af6b326b" alt="Bento.me Badge" height="40"/>
+  </a>
 </div>
+
 
